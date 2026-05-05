@@ -47,3 +47,7 @@ body {
     background: white;
     padding: 20px;
 }
+.reviews-track {
+    display: flex;
+    gap: 20px;
+}
