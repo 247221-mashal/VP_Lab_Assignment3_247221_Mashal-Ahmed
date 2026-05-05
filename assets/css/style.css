@@ -24,3 +24,9 @@ body {
 .navbar {
     padding: 12px 0;
 }
+.box {
+    height: 420px;
+    position: relative;
+    border-top: 10px solid var(--purple);
+    border-left: 10px solid var(--purple);
+}
