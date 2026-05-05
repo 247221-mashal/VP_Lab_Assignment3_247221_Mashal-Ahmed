@@ -14,3 +14,10 @@ body {
     font-weight: 600;
     color: var(--navy) !important;
 }
+
+.btn-signin {
+    background: var(--purple);
+    color: white;
+    padding: 8px 20px;
+    border-radius: 999px;
+}
