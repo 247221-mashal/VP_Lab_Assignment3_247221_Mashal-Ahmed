@@ -43,3 +43,7 @@ body {
 .hero-left {
     padding: 60px;
 }
+.review-card {
+    background: white;
+    padding: 20px;
+}
