@@ -62,3 +62,7 @@ body {
 .btn-yellow {
     background: var(--yellow);
 }
+
+.feature-card {
+    text-align: center;
+}
