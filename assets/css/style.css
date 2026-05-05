@@ -69,3 +69,6 @@ body {
 .feat-icon img {
     width: 80px;
 }
+.blog-card {
+    border-radius: 10px;
+}
