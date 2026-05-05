@@ -66,3 +66,6 @@ body {
 .feature-card {
     text-align: center;
 }
+.feat-icon img {
+    width: 80px;
+}
